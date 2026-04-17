@@ -1,0 +1,11 @@
+Drop runtime DLLs in this folder before building if you want them copied automatically into Release/TagUrIt.
+
+Expected files:
+- leechcore.dll
+- vmm.dll
+- FTD3XX.dll
+
+Optional:
+- symsrv.dll
+- dbghelp.dll
+- any other runtime assets you want packaged
